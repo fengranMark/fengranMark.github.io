@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now on the job market and looking for any academic positions in North America and Europe. I am sincerely appreciate any help, guidance, and information!
+**I am now on the job market and looking for any academic positions in North America and Europe. I am sincerely appreciate any help, guidance, and information!**
 
 I am a final-year Ph.D. student at the RALI Lab of Université de Montréal. I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Master degree in Computer Science from Université de Montréal, Canada (08.2022) and Bachelor degree from Dalian University of Technology, China (07.2020). 
 
