@@ -18,18 +18,40 @@ I have ever received Best Paper Award Nominations in WWW 2023 and Best Resource 
 
 My curriculum vitae is available [here](../files/CV.pdf).
 
-News
-======
-
 
 Professional Experience
 ======
+#### **Amazon Nile Team**, Applied Scientist Intern  
+*Palo Alto, Bay Area, USA* — *Jun 2024 – Dec 2024*  
+**Project:** *Unifying Retrieval and Generation for LLMs in Conversations*  
+**Advisors:** Meng Jiang, Yifan Gao  
+
+---
+
+#### **Tsinghua University, AIR**, Visiting Student  
+*Beijing, China* — *Mar 2022 – Jun 2022*  
+**Project:** *Learning to Relate to Previous Turns in Conversational Search*  
+**Co-Advisor:** Yang Liu  
+
+---
+
+#### **Ant Group**, Research Intern  
+*Hangzhou, China* — *May 2021 – Oct 2021*  
+**Project:** *A Customized Text Sanitization Mechanism with Differential Privacy*  
+**Co-Advisor:** Cen Chen  
+
+---
+
+#### **Dalhousie University & MITACS**, Research Intern  
+*Halifax, Canada* — *Jun 2019 – Sep 2019*  
+**Project:** *Interactive Hierarchical Clustering for Medical Domain*  
+**Advisor:** Evangelos Milios  
 
 Professional Activities
 ======
 
 
-📝 Selected Publications
+# Selected Publications
 ======
 I have published more than ten papers as first author and over thirty papers in collaboration in top-tier conferences and prestigious journals, including ACL, SIGIR, EMNLP, KDD, WWW, CIKM, WSDM, ICLR, IJCAI, IPM, and ACM TOIS, etc. Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
