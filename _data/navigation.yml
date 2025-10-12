@@ -16,7 +16,7 @@ main:
     url: /portfolio/
 
   - title: "Publications"
-    url: /#publications
+    url: /# Selected Publications
     
   - title: "Teaching and Supervision"
     url: /teaching/    
