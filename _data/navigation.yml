@@ -10,17 +10,17 @@
 main:
 
   - title: "Publications"
-    url: /#Selected Publications
+    url: /#selected-publications
 
   - title: "Awards"
-    url: /#Honors and Awards
+    url: /#honors-and-awards
 
   - title: "Professional Experience"
-    url: /#Professional Experience
+    url: /#professional-experience
 
   - title: "Academic Service"
-    url: /#Academic Service     
+    url: /#academic-service     
     
   - title: "Talks"
-    url: /#Talks
+    url: /#talks
     
