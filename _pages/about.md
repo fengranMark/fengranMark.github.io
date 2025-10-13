@@ -56,27 +56,27 @@ I have published more than ten papers as first author and over thirty papers in 
 
 Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
-- **Fengran Mo**, Yifan Gao, Chuan Meng, Xin Liu, Zhuofeng Wu, Kelong Mao, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Bing Yin, Meng Jiang. _UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations._ *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025.  
+- **Fengran Mo**, Yifan Gao, Chuan Meng, Xin Liu, Zhuofeng Wu, Kelong Mao, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Bing Yin, Meng Jiang. _UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations._ *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025. [[pdf]](https://aclanthology.org/2025.acl-long.344.pdf)  
 
-- **Fengran Mo**, Kelong Mao, Ziliang Zhao, Hongjin Qian, Haonan Chen, Yiruo Cheng, Xiaoxi Li, Yutao Zhu, Zhicheng Dou, Jian-Yun Nie. _A Survey of Conversational Search._ *ACM Transactions on Information Systems (TOIS)*, 2025.  
+- **Fengran Mo**, Kelong Mao, Ziliang Zhao, Hongjin Qian, Haonan Chen, Yiruo Cheng, Xiaoxi Li, Yutao Zhu, Zhicheng Dou, Jian-Yun Nie. _A Survey of Conversational Search._ *ACM Transactions on Information Systems (TOIS)*, 2025. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3759453)  
 
 - **Fengran Mo**, Yifan Gao, Zhuofeng Wu, Xin Liu, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Meng Jiang, Jian-Yun Nie. _Leveraging Historical Information to Boost Retrieval-Augmented Generation in Conversations._ *Information Processing and Management (IPM) Journal*, 2025.  
 
-- **Fengran Mo**, Yuchen Hui, Yuxing Tian, Zhaoxuan Tan, Chuan Meng, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Adaptive Personalized Conversational Information Retrieval._ *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Seoul, Korea, 2025.
+- **Fengran Mo**, Yuchen Hui, Yuxing Tian, Zhaoxuan Tan, Chuan Meng, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Adaptive Personalized Conversational Information Retrieval._ *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Seoul, Korea, 2025. [[pdf]](https://www.arxiv.org/pdf/2508.08634)  
 
-- Kaiyu Huang*, **Fengran Mo***, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ 2025. 
+- Kaiyu Huang*, **Fengran Mo***, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ 2025. [[pdf]](https://arxiv.org/pdf/2405.10936) 
 
-- **Fengran Mo**, Abbas Ghaddar, Kelong Mao, Mehdi Rezagholizadeh, Boxing Chen, Qun Liu, Jian-Yun Nie. _CHIQ: Contextual History Enhancement for Improving Query Rewriting in Conversational Search._ *Proceedings of the 29th Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Miami, USA, 2024.  
+- **Fengran Mo**, Abbas Ghaddar, Kelong Mao, Mehdi Rezagholizadeh, Boxing Chen, Qun Liu, Jian-Yun Nie. _CHIQ: Contextual History Enhancement for Improving Query Rewriting in Conversational Search._ *Proceedings of the 29th Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Miami, USA, 2024. [[pdf]](https://aclanthology.org/2024.emnlp-main.135.pdf) 
 
-- **Fengran Mo**, Chen Qu, Kelong Mao, Yihong Wu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search._ *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, Boise, USA, 2024.  
+- **Fengran Mo**, Chen Qu, Kelong Mao, Yihong Wu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search._ *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, Boise, USA, 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679534) 
 
-- **Fengran Mo**, Longxiang Zhao, Kaiyu Huang, Yue Dong, Degen Huang, Jian-Yun Nie. _How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval._ *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, Boise, USA, 2024.  
+- **Fengran Mo**, Longxiang Zhao, Kaiyu Huang, Yue Dong, Degen Huang, Jian-Yun Nie. _How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval._ *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, Boise, USA, 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679939) 
 
-- **Fengran Mo**, Chen Qu, Kelong Mao, Tianyu Zhu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _History-Aware Conversational Dense Retrieval._ *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)*, Bangkok, Thailand, 2024.
+- **Fengran Mo**, Chen Qu, Kelong Mao, Tianyu Zhu, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _History-Aware Conversational Dense Retrieval._ *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)*, Bangkok, Thailand, 2024. [[pdf]](https://aclanthology.org/2024.findings-acl.792.pdf) 
 
-- **Fengran Mo**, Jian-Yun Nie, Kaiyu Huang, Kelong Mao, Yutao Zhu, Peng Li, Yang Liu. _Learning to Relate to Previous Turns in Conversational Search._ *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023.  
+- **Fengran Mo**, Jian-Yun Nie, Kaiyu Huang, Kelong Mao, Yutao Zhu, Peng Li, Yang Liu. _Learning to Relate to Previous Turns in Conversational Search._ *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599411) 
 
-- **Fengran Mo**, Kelong Mao, Yutao Zhu, Yihong Wu, Kaiyu Huang, Jian-Yun Nie. _ConvGQR: Generative Query Reformulation for Conversational Search._ *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)*, Toronto, Canada, 2023. 
+- **Fengran Mo**, Kelong Mao, Yutao Zhu, Yihong Wu, Kaiyu Huang, Jian-Yun Nie. _ConvGQR: Generative Query Reformulation for Conversational Search._ *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)*, Toronto, Canada, 2023. [[pdf]](https://aclanthology.org/2023.acl-long.274.pdf) 
  
 Academic Service
 ======
