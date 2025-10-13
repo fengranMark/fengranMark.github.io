@@ -9,26 +9,18 @@
 
 main:
 
-  - title: "Academic Service"
-    url: /talks/    
+  - title: "Publications"
+    url: /#Selected Publications
+
+  - title: "Honors and Awards"
+    url: /#Honors and Awards
 
   - title: "Professional Experience"
-    url: /portfolio/
+    url: /#Professional Experience
 
-  - title: "Publications"
-    url: /# Selected Publications
+  - title: "Academic Service"
+    url: /#Academic Service     
     
-  - title: "Teaching and Supervision"
-    url: /teaching/    
+  - title: "Talks"
+    url: /#Talks
     
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
