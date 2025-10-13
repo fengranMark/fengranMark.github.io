@@ -14,8 +14,6 @@ I am a final-year Ph.D. student at the RALI Lab of Université de Montréal. I a
 I have broad interests in Conversational and Interactive AI, Information Retrieval (IR), Natural Language Processing (NLP), Large Language Models (LLMs), Multilingualism, User Modeling, and AI for domain applications and social goods.
 My future research vision is to develop interactive AI systems that benefit diverse users with effective and efficient interaction between humans and AI assistants, enabling them to achieve their various goals.
 
-I have received Best Paper Award Nominations in WWW 2023 and Best Resource Paper Award in EMNLP 2024, and was awarded the Canada Mitacs Globalink Research Scholarship (2020), Montreal AI Scholarship (2021), and Bourses d'excellence Merit Student (2021-2025). I have been the Area Chair for the ACL series conference (ACL, EMNLP, NAACL, EACL) since 2024 and regularly served as a PC member/reviewer in top-tier conferences and prestigious journals, including SIGIR, SIGKDD, WSDM, CIKM, WWW, IJCAI, ICLR, TOIS, TIST, IPM, CRUS, etc.
-
 My curriculum vitae is available [here](../files/CV.pdf).
 
 Honors and Awards
@@ -54,7 +52,9 @@ Professional Experience
 
 Selected Publications
 ======
-I have published more than ten papers as first author and over thirty papers in collaboration in top-tier conferences and prestigious journals, including ACL, SIGIR, EMNLP, KDD, WWW, CIKM, WSDM, ICLR, IJCAI, IPM, and ACM TOIS, etc. Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
+I have published more than ten papers as first author and over thirty papers in collaboration in top-tier conferences and prestigious journals, including ACL, SIGIR, EMNLP, KDD, WWW, CIKM, WSDM, ICLR, IJCAI, IPM, and ACM TOIS, etc. 
+
+Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
 - **Fengran Mo**, Yifan Gao, Chuan Meng, Xin Liu, Zhuofeng Wu, Kelong Mao, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Bing Yin, Meng Jiang.  
   _UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations._  
@@ -102,7 +102,7 @@ I have published more than ten papers as first author and over thirty papers in 
 Academic Service
 ======
 #### Tutorial / Workshop Organizer
-- **First Leading Organizer & Speaker**, *Conversational Search: From Fundamentals to Frontiers in the LLM Era*, Tutorial at **SIGIR 2025**, Padova, Italy.  
+- **First Leading Organizer & Speaker**, *[Conversational Search: From Fundamentals to Frontiers in the LLM Era](https://convsearch.github.io/)*, Tutorial at **SIGIR 2025**, Padova, Italy.  
 - **First Leading Organizer**, *Multilinguality in the Era of Large Language Models (MeLLMs)*, Workshop at **ACL 2026**, San Diego, USA.  
 
 ---
@@ -132,3 +132,6 @@ Academic Service
 - *ACM Computing Surveys (CSUR)*  
 - *Information Processing and Management (IPM)*, Elsevier  
 - *IEEE Transactions on Human-Machine Systems (THMS)*
+
+Talks
+======
