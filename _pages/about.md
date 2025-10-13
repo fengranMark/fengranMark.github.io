@@ -18,8 +18,9 @@ My curriculum vitae is available [here](../files/CV.pdf).
 
 Honors and Awards
 ======
-- **Best Resource Paper Award**, *EMNLP 2024*  
-- **Best Paper Nomination**, *ACM WWW 2023*  
+- **Best Resource Paper Award**, *EMNLP 2024*
+- **Best Paper Award Nomination**, *IEEE ICDM 2025*  
+- **Best Paper Award Nomination**, *ACM WWW 2023*  
 - **Canada Montréal Bourses AI Fellowship**, *2022*  
 - **Canada MITACS Globalink Graduate Research Fellowship**, *2021*  
 - **UdeM Doctoral End-of-Study Fellowship**, *2025*  
