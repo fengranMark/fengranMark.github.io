@@ -64,7 +64,7 @@ Full publication list could be found in my [Google Scholar](https://scholar.goog
 
 - **Fengran Mo**, Yuchen Hui, Yuxing Tian, Zhaoxuan Tan, Chuan Meng, Zhan Su, Kaiyu Huang, Jian-Yun Nie. _Adaptive Personalized Conversational Information Retrieval._ *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Seoul, Korea, 2025.
 
-- Kaiyu Huang, **Fengran Mo**, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ 2025. 
+- Kaiyu Huang*, **Fengran Mo***, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu. _A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers._ 2025. 
 
 - **Fengran Mo**, Abbas Ghaddar, Kelong Mao, Mehdi Rezagholizadeh, Boxing Chen, Qun Liu, Jian-Yun Nie. _CHIQ: Contextual History Enhancement for Improving Query Rewriting in Conversational Search._ *Proceedings of the 29th Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Miami, USA, 2024.  
 
