@@ -11,12 +11,12 @@ main:
 
   - title: "Awards"
     url: /#honors-and-awards
-    
-  - title: "Publications"
-    url: /#selected-publications
 
   - title: "Professional Experience"
     url: /#professional-experience
+    
+  - title: "Publications"
+    url: /#selected-publications
 
   - title: "Academic Service"
     url: /#academic-service     
