@@ -7,17 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-**I am now on the job market and looking for any academic positions in North America and Europe. I am sincerely appreciate any help, guidance, and information!**
+**I am now on the job market and looking for any academic positions in North America and Europe. I sincerely appreciate any help, guidance, and information!**
 
 I am a final-year Ph.D. student at the RALI Lab of Université de Montréal. I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Master degree in Computer Science from Université de Montréal, Canada (08.2022) and Bachelor degree from Dalian University of Technology, China (07.2020). 
 
 I have broad interests in Conversational and Interactive AI, Information Retrieval (IR), Natural Language Processing (NLP), Large Language Models (LLMs), Multilingualism, User Modeling, and AI for domain applications and social goods. My research focuses on (1) how to integrate retriever and generative models to improve the effectiveness, efficiency, robustness, and trustworthiness of the conversational AI systems; (2) how to improve user-centric experience and facilitate human-machine interaction via personalization, behavior modeling, proactive learning, multiple agent-human collaboration, and adapt to multilingual, multi-modality, domain-specific, and privacy-preserving scenarios.
-My future research vision is to build up interactive AI systems and benefit various background users with effective and efficient interaction between humans and AI assistants to achieve their diverse goals.
+My future research vision is to develop interactive AI systems that benefit diverse users with effective and efficient interaction between humans and AI assistants, enabling them to achieve their various goals.
 
-I have ever received Best Paper Award Nominations in WWW 2023 and Best Resource Paper Award in EMNLP 2024, and was awarded the Canada Mitacs Globalink Research Scholarship (2020), Montreal AI Scholarship (2021), and Bourses d'excellence Merit Student (2021-2025). I have been the Area Chair for the ACL series conference (ACL, EMNLP, NAACL, EACL) since 2024 and regularly served as a PC member/reviewer in top-tier conferences and prestigious journals, including SIGIR, SIGKDD, WSDM, CIKM, WWW, IJCAI, ICLR, TOIS, TIST, IPM, CRUS, etc.
+I have received Best Paper Award Nominations in WWW 2023 and Best Resource Paper Award in EMNLP 2024, and was awarded the Canada Mitacs Globalink Research Scholarship (2020), Montreal AI Scholarship (2021), and Bourses d'excellence Merit Student (2021-2025). I have been the Area Chair for the ACL series conference (ACL, EMNLP, NAACL, EACL) since 2024 and regularly served as a PC member/reviewer in top-tier conferences and prestigious journals, including SIGIR, SIGKDD, WSDM, CIKM, WWW, IJCAI, ICLR, TOIS, TIST, IPM, CRUS, etc.
 
 My curriculum vitae is available [here](../files/CV.pdf).
 
+Honors and Awards
+======
+- **Best Resource Paper Award**, *EMNLP 2024*  
+- **Best Paper Nomination**, *ACM WWW 2023*  
+- **Canada Montréal Bourses AI Fellowship**, *2022*  
+- **Canada MITACS Globalink Graduate Research Fellowship**, *2021*  
+- **UdeM Doctoral End-of-Study Fellowship**, *2025*  
+- **DIRO Bourses d’Excellence Merit Student Scholarship**, *2021–2025*  
+- **OpenAI Research Program Grant**, *2024*
 
 Professional Experience
 ======
@@ -47,11 +56,7 @@ Professional Experience
 **Project:** *Interactive Hierarchical Clustering for Medical Domain*  
 **Advisor:** Evangelos Milios  
 
-Professional Activities
-======
-
-
-# Selected Publications
+Selected Publications
 ======
 I have published more than ten papers as first author and over thirty papers in collaboration in top-tier conferences and prestigious journals, including ACL, SIGIR, EMNLP, KDD, WWW, CIKM, WSDM, ICLR, IJCAI, IPM, and ACM TOIS, etc. Full publication list could be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AqsGXGkAAAAJ). 
 
@@ -98,3 +103,36 @@ I have published more than ten papers as first author and over thirty papers in 
   _ConvGQR: Generative Query Reformulation for Conversational Search._  
   *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)*, Toronto, Canada, 2023. 
  
+Academic Service
+======
+#### Tutorial / Workshop Organizer
+- **First Leading Organizer & Speaker**, *Conversational Search: From Fundamentals to Frontiers in the LLM Era*, Tutorial at **SIGIR 2025**, Padova, Italy.  
+- **First Leading Organizer**, *Multilinguality in the Era of Large Language Models (MeLLMs)*, Workshop at **ACL 2026**, San Diego, USA.  
+
+---
+
+#### Senior Program Committee / Meta Reviewer
+- **Area Chair**, *Association for Computational Linguistics (ACL) Rolling Review (ARR)* — including ACL, EMNLP, NAACL, EACL, and AACL (2024–2025).  
+
+---
+
+#### Program Committee Member / Reviewer
+- *ACM SIG Conference on Research and Development in Information Retrieval (SIGIR)*, 2025  
+- *ACM SIG Conference on Knowledge Discovery and Data Mining (KDD)*, 2024  
+- *ACM International Conference on Information and Knowledge Management (CIKM)*, 2023–2025  
+- *ACM International Conference on Web Search and Data Mining (WSDM)*, 2023–2025  
+- *ACM International World Wide Web Conference (WWW)*, 2024, 2026  
+- *International Conference on Learning Representations (ICLR)*, 2026  
+- *International Conference on Computational Linguistics (COLING)*, 2024  
+- *International Joint Conference on Artificial Intelligence (IJCAI)*, 2025  
+- *European Conference on Information Retrieval (ECIR)*, 2024–2026  
+- *ACM SIG Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP)*, 2025  
+
+---
+
+#### Journal Reviewer
+- *ACM Transactions on Information Systems (TOIS)*  
+- *ACM Transactions on Intelligent Systems and Technology (TIST)*  
+- *ACM Computing Surveys (CSUR)*  
+- *Information Processing and Management (IPM)*, Elsevier  
+- *IEEE Transactions on Human-Machine Systems (THMS)*
