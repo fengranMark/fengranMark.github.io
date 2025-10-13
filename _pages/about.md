@@ -11,7 +11,7 @@ redirect_from:
 
 I am a final-year Ph.D. student at the RALI Lab of Université de Montréal. I am fortunate to be advised by [Prof. Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/). I obtained my Master degree in Computer Science from Université de Montréal, Canada (08.2022) and Bachelor degree from Dalian University of Technology, China (07.2020). 
 
-I have broad interests in Conversational and Interactive AI, Information Retrieval (IR), Natural Language Processing (NLP), Large Language Models (LLMs), Multilingualism, User Modeling, and AI for domain applications and social goods. My research focuses on (1) how to integrate retriever and generative models to improve the effectiveness, efficiency, robustness, and trustworthiness of the conversational AI systems; (2) how to improve user-centric experience and facilitate human-machine interaction via personalization, behavior modeling, proactive learning, multiple agent-human collaboration, and adapt to multilingual, multi-modality, domain-specific, and privacy-preserving scenarios.
+I have broad interests in Conversational and Interactive AI, Information Retrieval (IR), Natural Language Processing (NLP), Large Language Models (LLMs), Multilingualism, User Modeling, and AI for domain applications and social goods.
 My future research vision is to develop interactive AI systems that benefit diverse users with effective and efficient interaction between humans and AI assistants, enabling them to achieve their various goals.
 
 I have received Best Paper Award Nominations in WWW 2023 and Best Resource Paper Award in EMNLP 2024, and was awarded the Canada Mitacs Globalink Research Scholarship (2020), Montreal AI Scholarship (2021), and Bourses d'excellence Merit Student (2021-2025). I have been the Area Chair for the ACL series conference (ACL, EMNLP, NAACL, EACL) since 2024 and regularly served as a PC member/reviewer in top-tier conferences and prestigious journals, including SIGIR, SIGKDD, WSDM, CIKM, WWW, IJCAI, ICLR, TOIS, TIST, IPM, CRUS, etc.
@@ -30,26 +30,22 @@ Honors and Awards
 
 Professional Experience
 ======
-#### **Amazon Nile Team**, Applied Scientist Intern  
+#### **Amazon Rufus Team**, Applied Scientist Intern  
 *Palo Alto, Bay Area, USA* — *Jun 2024 – Dec 2024*  
 **Project:** *Unifying Retrieval and Generation for LLMs in Conversations*  
 **Advisors:** Meng Jiang, Yifan Gao  
-
----
 
 #### **Tsinghua University, AIR**, Visiting Student  
 *Beijing, China* — *Mar 2022 – Jun 2022*  
 **Project:** *Learning to Relate to Previous Turns in Conversational Search*  
 **Co-Advisor:** Yang Liu  
 
----
 
 #### **Ant Group**, Research Intern  
 *Hangzhou, China* — *May 2021 – Oct 2021*  
 **Project:** *A Customized Text Sanitization Mechanism with Differential Privacy*  
 **Co-Advisor:** Cen Chen  
 
----
 
 #### **Dalhousie University & MITACS**, Research Intern  
 *Halifax, Canada* — *Jun 2019 – Sep 2019*  
