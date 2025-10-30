@@ -113,5 +113,10 @@ Academic Service
 - *Information Processing and Management (IPM)*, Elsevier  
 - *IEEE Transactions on Human-Machine Systems (THMS)*
 
-Talks
+Invited Talks
 ======
+- *Paradigms of Information Retrieval in the era of LLM*, hosted by **Microsoft Research India**, 2025.10
+- *Optimizing Retrieval and Answer Generation for Large Language Models in Conversations*, hosted by **Prof. Yi Zhang** at UC Santa Scuz, 2025.10
+- *Unifying Retrieval and Response Generation for Large Language Models in Conversations*, hosted by **The FinAI**, 2025.08
+- *Integrating Large Language Model in Conversational Search*, hosted by **MILA-IVADO**, 2025.03
+- *Recent Advances and New Frontiers of Conversational Search*, hosted by **Prof. Yi Fang** at Santa Clara University, 2024.10
